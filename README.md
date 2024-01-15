@@ -2,4 +2,4 @@
 
 Robotic car using esp8266 WiFi interface, using microPython. 
 
-Motivated by Troop135 Robotics Merit Badge
+Motivated by Robotics Merit Badge
